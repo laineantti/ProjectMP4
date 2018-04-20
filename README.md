@@ -9,4 +9,4 @@
                 <li><a href="https://naatti.win/mp4?txt">Text file of all video files in real time</a></li>
 </ul>
 
-![ProjectMP4 isn't safe for work!](not-safe-for-work.png.png)
+![ProjectMP4 isn't safe for work!](not-safe-for-work.png)
